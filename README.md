@@ -1,6 +1,6 @@
 # Object Tracking App
 
-![alt text](images.jpeg)
+![alt text](images-1.jpeg)
 
 ## Overview
 
